@@ -62,11 +62,13 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    /*background-color: #f7f7f7;*/
+    background-color: #1B1C1D;
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    /*background-color: #222;*/
+    background-color: #181A1B;
 }
 
 .btn-primary {
@@ -316,7 +318,7 @@ header .intro-text .intro-heading {
 
     header .logo-heading {
         width: 20%;
-        /*max-width: 400px;*/
+        max-width: 100px;
         height: auto;
     }
 
