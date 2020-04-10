@@ -302,12 +302,14 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
-logo-heading {
+header .logo-heading {
     background-color: #a012cc;
     width: 5%;
     max-width: 100px;
     height: auto;
 }
+
+
 
 @media(min-width:768px) {
     header .intro-text {
