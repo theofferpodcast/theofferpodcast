@@ -1,0 +1,7 @@
+new background colors:
+    darker color: #181A1B
+    lighter color: #1B1C1D
+
+Fonts: 
+    The Offer main font: IM Fell DW Pica
+    Secondary font: futura-lighte
