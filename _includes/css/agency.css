@@ -314,6 +314,12 @@ header .intro-text .intro-heading {
         line-height: 40px;
     }
 
+    header .logo-heading {
+        width: 20%;
+        /*max-width: 400px;*/
+        height: auto;
+    }
+
     header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
