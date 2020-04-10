@@ -303,7 +303,7 @@ header .intro-text .intro-heading {
 }
 
 header .logo-heading {
-    margin-top: 30%;
+    padding-top: 30%;
     background-color: #a012cc;
     width: 20%;
     height: auto;
