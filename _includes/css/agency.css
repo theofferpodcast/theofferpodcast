@@ -304,7 +304,7 @@ header .intro-text .intro-heading {
 
 header .logo-heading {
     padding-top: 30%;
-    padding-bottom: -120%;
+    margin-bottom: 0em;
     width: 60%;
     height: auto;
 }
