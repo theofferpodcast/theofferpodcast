@@ -317,6 +317,7 @@ header .intro-text .intro-heading {
     }
 
     header .logo-heading {
+        background-color: #e74c3c;
         width: 5%;
         max-width: 100px;
         height: auto;
