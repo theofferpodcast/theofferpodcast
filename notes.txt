@@ -5,3 +5,7 @@ new background colors:
 Fonts: 
     The Offer main font: IM Fell DW Pica
     Secondary font: futura-light
+
+Colors:
+    Orange primary:#EC4C37
+    Orange darker:
