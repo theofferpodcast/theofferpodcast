@@ -4,4 +4,4 @@ new background colors:
 
 Fonts: 
     The Offer main font: IM Fell DW Pica
-    Secondary font: futura-lighte
+    Secondary font: futura-light
