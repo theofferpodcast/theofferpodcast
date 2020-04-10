@@ -301,13 +301,14 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
 }
-
-.logo-heading {
+/*
+logo-heading {
     background-color: #1B1C1D;
     width: 5%;
     max-width: 100px;
     height: auto;
-}
+}*/
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
