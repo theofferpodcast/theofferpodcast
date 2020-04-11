@@ -269,8 +269,9 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #{{ site.data.template.color.dark-gray }};
+    color: #fff;
     background-attachment: scroll;
+    background-color: #{{ site.data.template.color.dark-gray }};
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
