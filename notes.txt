@@ -9,3 +9,6 @@ Fonts:
 Colors:
     Orange primary:#EC4C37
     Orange darker:
+
+    access saved data:
+    #{{ site.data.template.color.muted }}

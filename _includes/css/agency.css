@@ -644,6 +644,9 @@ section h3.section-subheading {
     }
 }
 
+.member-name{
+    color: #{{ site.data.template.color.light }};
+}
 
 .img-responsive{
     max-width: 50%;
