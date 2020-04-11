@@ -6,6 +6,7 @@ color:
   muted: b5b5b5
   light: f9f9f9
   dark-gray: 222222
+  darket-gray: 1B1C1D
 
 # Font Families
 font:
