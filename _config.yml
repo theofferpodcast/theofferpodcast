@@ -58,4 +58,5 @@ permalink: pretty
 plugins:
   - jekyll-seo-tag
 
-#<------------------------Jektify---------------------------------------->
+#<------------------------Jekyll spotify---------------------------------------->
+gems: [jekyll-spotify]
