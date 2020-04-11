@@ -210,10 +210,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .episodes-button{
-    background-color: #{{ site.data.template.color.primary }};
-    border-top: 10px
-    border-bottom: 10px
-    border-radius: 10%;
+    color: #{{ site.data.template.color.primary }};
+    font-weight: bold;
 }
 
 .navbar-default .nav li a {
