@@ -54,7 +54,8 @@ address:
 markdown: kramdown
 permalink: pretty
 
+#Plugins
 plugins:
   - jekyll-seo-tag
 
-#Plugins
+#<------------------------Jektify---------------------------------------->

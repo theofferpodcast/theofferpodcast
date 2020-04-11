@@ -209,7 +209,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .episodes-button{
     background-color: #{{ site.data.template.color.primary }};
-    border-radius: 10%;
+    border-radius: 5%;
 }
 
 .navbar-default .nav li a {
