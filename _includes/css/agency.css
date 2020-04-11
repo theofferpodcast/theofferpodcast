@@ -173,7 +173,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default {
-    max-height: 10px;
     border-color: transparent;
     background-color: #222;
 }
@@ -195,7 +194,6 @@ fieldset[disabled] .btn-xl.active {
     border-color: rgba(255,255,255,.02);
 }
 
-
 .navbar-default .navbar-toggle {
     border-color: #{{ site.data.template.color.primary }};
     background-color: #{{ site.data.template.color.primary }};
@@ -211,8 +209,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .episodes-button{
-    color: #{{ site.data.template.color.primary }};
-    font-weight: bold;
+    background-color: #{{ site.data.template.color.primary }};
+    border-radius: 5%;
 }
 
 .navbar-default .nav li a {
@@ -221,11 +219,9 @@ fieldset[disabled] .btn-xl.active {
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
-    /*
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
-    */
 }
 
 .navbar-default .nav li a:hover,
