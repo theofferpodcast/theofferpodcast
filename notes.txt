@@ -28,4 +28,4 @@ Colors:
 
 
 Spotify player
-    <div><iframe src="https://open.spotify.com/embed-podcast/show/7LLA2C6YtOgKzT3Nhhkjhf" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></div>
+    
