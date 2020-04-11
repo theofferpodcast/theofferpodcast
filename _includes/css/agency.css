@@ -211,7 +211,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .episodes-button{
     background-color: #{{ site.data.template.color.primary }};
-    padding: 2%,0%,2%,0%;
+    padding-top: 10px
+    padding-bottom: 10px
     border-radius: 5%;
 }
 
