@@ -5,6 +5,7 @@ color:
   secondary-dark: 333
   muted: b5b5b5
   light: f9f9f9
+  dark-gray: 222222
 
 # Font Families
 font:
