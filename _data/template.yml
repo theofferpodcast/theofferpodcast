@@ -3,7 +3,7 @@ color:
   primary: EC4C37
   secondary: eb6452   
   secondary-dark: 333
-  muted: 777
+  muted: f9f9f9
 
 # Font Families
 font:
