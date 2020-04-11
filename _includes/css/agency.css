@@ -644,6 +644,10 @@ section h3.section-subheading {
     }
 }
 
+
+.img-responsive{
+    max-width: 50%;
+}
 .team-member {
     margin-bottom: 50px;
     text-align: center;
