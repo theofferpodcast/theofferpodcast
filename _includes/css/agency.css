@@ -648,15 +648,14 @@ section h3.section-subheading {
     color: #{{ site.data.template.color.light }};
 }
 
-.img-responsive{
-    max-width: 50%;
-}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
 }
 
 .team-member img {
+    max-width: 50%;
     margin: 0 auto;
     border: 7px solid #fff;
 }
