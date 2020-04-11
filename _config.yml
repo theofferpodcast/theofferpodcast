@@ -13,11 +13,11 @@ people:
   pic: 1
   position: Co-Producer | Co-Host
   social:
-    - title: twitter
-      url: #
+  #  - title: twitter
+  #    url: #
     - title: facebook
       url: #
-    - title: stack-overflow
+    - title: linkedin
       url: #
 
 - name: Paul Deichmann
