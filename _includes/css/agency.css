@@ -189,11 +189,11 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.secondary }};
 }
 
-/*
+
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
 }
-*/
+
 
 .navbar-default .navbar-toggle {
     border-color: #{{ site.data.template.color.primary }};
@@ -211,6 +211,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .episodes-button{
     background-color: #{{ site.data.template.color.primary }};
+    margin: 5%;
     border-radius: 5%;
 }
 
