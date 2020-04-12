@@ -1,5 +1,6 @@
 #The Offer Podcast Website Documentation
 
+##Guests
 How do I add a new guest?
 
 1. add their name in the "Guests" secction in _config.yml
@@ -9,6 +10,7 @@ How do I add a new guest?
 
 ---------------------------------------------------------
 
+##Episodes
 How do I add a new episode?
 > Episodes are displayed on the website by creating a file in the /portfolio/ folder. if the file is created correctly, it will display on the website automatically
 
@@ -19,3 +21,5 @@ How do I add a new episode?
 3. name the file following the convention YYYY-MM-DD-episode-number.markdown e.g: 2019-12-23-episode-8.markdown
 4. in the file you've just renamed, just follow the instructions from each field. Instructions are marked by starting with a "#". Don't worry, the texto following the "#" will not show up, it's just to explain what each field does. all you need to edit is what comes after ":"
 
+Common problems:
+* Pictures now showing? make sure the images are .png and not .jpg
