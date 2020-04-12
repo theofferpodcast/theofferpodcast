@@ -76,7 +76,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -87,7 +86,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -98,7 +96,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -109,7 +106,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -120,7 +116,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -131,7 +126,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -142,7 +136,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -153,7 +146,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -164,7 +156,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -175,7 +166,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -186,7 +176,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -197,7 +186,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -208,7 +196,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -219,7 +206,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -230,7 +216,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -241,7 +226,6 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
 - name: Matt Lovelace
   pic: mat
   position: Danklord
@@ -252,7 +236,116 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/cesar-gozurreta/
-guests:
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
 - name: Matt Lovelace
   pic: mat
   position: Danklord
