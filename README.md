@@ -17,4 +17,5 @@ How do I add a new episode?
     1.b paste another picture with the same name ending in "-thumbnail" e.g: thepilot-thumbnail.png
 2. download the template file from [LINK TO DRIVE]
 3. name the file following the convention YYYY-MM-DD-episode-number.markdown e.g: 2019-12-23-episode-8.markdown
-4. Title: title of the episode
+4. in the file you've just renamed, just follow the instructions from each field. Instructions are marked by starting with a "#". Don't worry, the texto following the "#" will not show up, it's just to explain what each field does. all you need to edit is what comes after ":"
+

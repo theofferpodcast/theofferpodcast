@@ -1,0 +1,32 @@
+---
+#NOTES: don't use "#" or ":" those mess with the code
+# What is the name of the episode?
+title: The vallad of Spooderman
+# What is the subtotitle of the episode? this will show up in the
+subtitle: IS this the hero we need?
+
+# NO CHANGE don't change this 
+#VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+layout: default
+
+# Add +1 to the latest episode. This controls where in the grid the episode will show up
+#e.g if the latest episode is number 8, this episode should be number 9
+modal-id: 1
+# Creation date
+date: 2019-07-19
+#main image. image should go in img/portfolio
+img: spooderman.png
+#thumbnail image. image should go in img/portfolio
+thumbnail: spooderman-thumbnail.png
+#description of the image when hoving over, useful to the visually impaired
+alt: Save us!
+#date that will be displayed
+project-date: April 19972
+#who participated?
+guests: The - Dark - Lord
+#noir, sci-fi and such
+genre: Horror
+
+description: What has science done?
+
+---

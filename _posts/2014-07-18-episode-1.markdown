@@ -1,12 +1,12 @@
 ---
 # What is the name of the episode?
 title: The first episode
-# What is the subtotitle of the episode?
+# What is the subtotitle of the episode? this will show up in the
 subtitle: This is the subtitle
 # NO CHANGE
 layout: default
-# Add +1 to the latest episode
-modal-id: 7
+# Add +1 to the latest episode. This controls where in the grid the episode will show up
+modal-id: 1
 # Creation date
 date: 2014-07-18
 #main image. image should go in img/portfolio
