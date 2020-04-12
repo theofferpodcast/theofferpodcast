@@ -23,3 +23,4 @@ How do I add a new episode?
 
 Common problems:
 * Pictures now showing? make sure the images are .png and not .jpg
+* When I click on an episode, another shows up? make sure the modal-id: isn't the same as another episode
