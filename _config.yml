@@ -65,7 +65,7 @@ gems: [jekyll-spotify]
 
 #<----------------------- Guests --------------------------->
 
-people:
+guests:
 - name: Cesar Goz
   pic: 1
   position: Co-Producer | Co-Host
