@@ -209,6 +209,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .episodes-button{
     background-color: #{{ site.data.template.color.primary }};
+    border: 1px;
 }
 
 .navbar-default .nav li a {
