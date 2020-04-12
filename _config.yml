@@ -66,9 +66,9 @@ gems: [jekyll-spotify]
 #<----------------------- Guests --------------------------->
 
 guests:
-- name: Cesar Goz
+- name: Matt Lovelace
   pic: 1
-  position: Co-Producer | Co-Host
+  position: Danklord
   social:
   #  - title: twitter
   #    url: #
