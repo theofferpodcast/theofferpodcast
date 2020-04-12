@@ -1,0 +1,33 @@
+---
+#NOTES: don't use "#" or ":" those mess with the code
+# What is the name of the episode?
+title: Kipachu~~~
+# What is the subtotitle of the episode? this will show up in the
+subtitle: All hail our lord!
+
+# NO CHANGE don't change this 
+#VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+layout: default
+
+# Add +1 to the latest episode. This controls where in the grid the episode will show up
+#e.g if the latest episode is number 8, this episode should be number 9
+modal-id: 3
+# Creation date
+date: 2020-04-12
+#main image. image should go in img/portfolio
+img: pika.png
+#thumbnail image. image should go in img/portfolio
+thumbnail: pika-thumbnail.png
+#description of the image when hoving over, useful to the visually impaired
+alt: hay caramba!
+#date that will be displayed
+project-date: Syberpunk 2077
+#who participated?
+guests: nobody - me
+#noir, sci-fi and such
+genre: Romantic Comedy
+
+description: What has science done?
+episode-link: 
+
+---
