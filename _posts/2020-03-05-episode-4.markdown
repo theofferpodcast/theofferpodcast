@@ -1,0 +1,33 @@
+---
+#NOTES: don't use "#" or ":" those mess with the code
+# What is the name of the episode?
+title: The Baijiu Curse
+# What is the subtotitle of the episode? this will show up in the
+subtitle: It's the end of the world!
+
+# NO CHANGE don't change this 
+#VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+layout: default
+
+# Add +1 to the latest episode. This controls where in the grid the episode will show up
+#e.g if the latest episode is number 8, this episode should be number 9
+modal-id: 3
+# Creation date
+date: 2020-03-05
+#main image. image should go in img/portfolio
+img: baijiu.png
+#thumbnail image. image should go in img/portfolio
+thumbnail: baijiu-thumbnail.png
+#description of the image when hoving over, useful to the visually impaired
+alt:
+#date that will be displayed
+project-date: Mar 2020
+#who participated?
+guests: Mat - Sonia - Paul
+#noir, sci-fi and such
+genre: Romantic Comedy
+
+description: What has science done?
+spoti-link: https://open.spotify.com/episode/2cGTu6FqCZrMa8YLqXTsiy?si=UPIQQaKVS-O5Uv68xwmf1A
+
+---
