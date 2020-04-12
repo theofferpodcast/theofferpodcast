@@ -11,7 +11,7 @@ layout: default
 
 # Add +1 to the latest episode. This controls where in the grid the episode will show up
 #e.g if the latest episode is number 8, this episode should be number 9
-modal-id: 3
+modal-id: 4
 # Creation date
 date: 2020-03-05
 #main image. image should go in img/portfolio
