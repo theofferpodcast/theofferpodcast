@@ -31,7 +31,7 @@ genre: Mistery
 description: This week on The Offer join Paul, Matt Lovelace (Zmack, Zut Alors), and Mathilde Chirol (Impro Fou Fou) for a story of resolutions gone wrong, hooligans and their dreams of movie star success, and ... sand. A lot of sand.
 
 #link to the individual episodes in each platform
-spoti-link: https://open.spotify.com/episode/4wNlMBWwi8hsDMH1Mcokmb
+spoti-link: https://open.spotify.com/episode/3Yyh86zJM2JRXfWYHzfvZS
 apple-link: https://podcasts.apple.com/us/podcast/the-sandstorm-that-stole-jack-the-offer-episode-4/id1501625817?i=1000469813991
 tunein-link: https://tunein.com/podcasts/Comedy-Podcasts/The-Offer-p1300957/?topicId=140670599
 switcher-link: https://www.stitcher.com/podcast/the-offer-an-improv-podcast/e/68392142

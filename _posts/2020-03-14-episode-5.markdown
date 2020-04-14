@@ -1,0 +1,39 @@
+---
+#NOTES: don't use "#" or ":" those mess with the code
+# What is the name of the episode?
+title: (Un)Structured Play
+# What is the subtotitle of the episode? this will show up in the
+subtitle: play nice.
+
+# NO CHANGE don't change this 
+#VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+layout: default
+comments: true
+
+# Add +1 to the latest episode. This controls where in the grid the episode will show up
+#e.g if the latest episode is number 8, this episode should be number 9
+modal-id: 5
+# Creation date
+date: 2020-03-22
+#main image. image should go in img/portfolio
+img: play.png
+#thumbnail image. image should go in img/portfolio
+thumbnail: play-thumbnail.png
+#description of the image when hoving over, useful to the visually impaired
+alt:
+#date that will be displayed
+project-date: Apr 2020
+#who participated?
+guests: Lilian - Mark - Will - Paul
+#noir, sci-fi and such
+genre: Educational
+
+description: This week on The Offer, join Mark, Lilian, William and Paul as they tell a story about scary parents, teachers exploring new methods, and much more!. This is musical week on The Offer! William plays piano and we all sing along. It's a story with music!
+
+#link to the individual episodes in each platform
+spoti-link: https://open.spotify.com/episode/176o62GL0j0DTV4o4qZmzF
+apple-link: https://podcasts.apple.com/us/podcast/un-structured-play-the-offer-episode-5/id1501625817?i=1000470556441
+tunein-link: https://tunein.com/podcasts/Comedy-Podcasts/The-Offer-p1300957/?topicId=141042494
+switcher-link: https://www.stitcher.com/podcast/the-offer-an-improv-podcast/e/68585020
+
+---
