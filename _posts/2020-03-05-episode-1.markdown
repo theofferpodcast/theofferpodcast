@@ -17,7 +17,7 @@ date: 2020-03-05
 #main image. image should go in img/portfolio
 img: baijiu.png
 #thumbnail image. image should go in img/portfolio
-thumbnail: baijiu-thumbnail.png
+thumbnail: baijui-thumbnail.png
 #description of the image when hoving over, useful to the visually impaired
 alt:
 #date that will be displayed
