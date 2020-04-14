@@ -8,6 +8,7 @@ subtitle: Learn how just a few drops of this magical liquit sealed the fate of t
 # NO CHANGE don't change this 
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 layout: default
+comments: true
 
 # Add +1 to the latest episode. This controls where in the grid the episode will show up
 #e.g if the latest episode is number 8, this episode should be number 9
