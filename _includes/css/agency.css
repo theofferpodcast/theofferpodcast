@@ -813,7 +813,9 @@ ul.social-buttons li a:active {
     width: 50px;
     border-radius: 20%;
     text-decoration: none;
-    
+    margin-left: 10%;
+    margin-right: 10%;
+
 }
 
 .portfolio-modal .modal-content h2 {
