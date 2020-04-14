@@ -1,7 +1,7 @@
 ---
 #NOTES: don't use "#" or ":" those mess with the code
 # What is the name of the episode?
-title: The Baijiu Curse
+title: Forgive Or End the World
 # What is the subtotitle of the episode? this will show up in the
 subtitle: Learn how just a few drops of this magical liquit sealed the fate of the world.
 
