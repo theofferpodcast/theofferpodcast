@@ -3,7 +3,7 @@
 # What is the name of the episode?
 title: Forgive Or End the World
 # What is the subtotitle of the episode? this will show up in the
-subtitle: Learn how just a few drops of this magical liquit sealed the fate of the world.
+subtitle: It all comes to this.
 
 # NO CHANGE don't change this 
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
