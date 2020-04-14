@@ -811,6 +811,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .listen-episode-button {
     height: 50px;
     width: 50px;
+    border-radius: 25%;
 }
 
 .portfolio-modal .modal-content h2 {
