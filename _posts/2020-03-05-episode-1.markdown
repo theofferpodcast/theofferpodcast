@@ -28,6 +28,10 @@ guests: Mat - Sonia - Paul
 genre: Romantic Comedy
 
 description: What has science done?
+#link to the individual episodes in each platform
 spoti-link: https://open.spotify.com/episode/2cGTu6FqCZrMa8YLqXTsiy?si=UPIQQaKVS-O5Uv68xwmf1A
+apple-link: https://podcasts.apple.com/us/podcast/the-baijiu-curse-the-offer-episode-1/id1501625817?i=1000467496737
+tunein-link: https://tunein.com/podcasts/Comedy-Podcasts/The-Offer-p1300957/?topicId=139523166
+switcher-link: https://www.stitcher.com/podcast/the-offer-an-improv-podcast/e/67804133
 
 ---
