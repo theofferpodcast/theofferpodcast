@@ -16,7 +16,7 @@ modal-id: 2
 # Creation date
 date: 2020-03-05
 #main image. image should go in img/portfolio
-img: baijiu.png
+img: endworld.png
 #thumbnail image. image should go in img/portfolio
 thumbnail: endworld-thumbnail.png
 #description of the image when hoving over, useful to the visually impaired
