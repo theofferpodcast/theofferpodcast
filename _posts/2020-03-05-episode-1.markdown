@@ -3,7 +3,7 @@
 # What is the name of the episode?
 title: The Baijiu Curse
 # What is the subtotitle of the episode? this will show up in the
-subtitle: Learn how just a few drops of this magical liquit sealed the fate of the world.
+subtitle: It sealed the fate of the world.
 
 # NO CHANGE don't change this 
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
@@ -24,7 +24,7 @@ alt:
 #date that will be displayed
 project-date: Mar 2020
 #who participated?
-guests: Mat - Sonia - Paul
+guests: Matt - Sonia - Paul
 #noir, sci-fi and such
 genre: Romantic Comedy
 

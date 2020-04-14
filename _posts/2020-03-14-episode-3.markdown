@@ -24,7 +24,7 @@ alt:
 #date that will be displayed
 project-date: Mar 2020
 #who participated?
-guests: Lilian - Mark - Paul
+guests: Browder - Matt - Tom - Paul
 #noir, sci-fi and such
 genre: Noir
 
@@ -33,7 +33,7 @@ description: This week on the Offer, it's genre week. Join us as dive into the d
 #link to the individual episodes in each platform
 spoti-link: https://open.spotify.com/episode/4wNlMBWwi8hsDMH1Mcokmb
 apple-link: https://podcasts.apple.com/us/podcast/forgive-or-end-the-world-the-offer-episode-2/id1501625817?i=1000468447930
-tunein-link: https://www.stitcher.com/podcast/the-offer-an-improv-podcast/e/67865061
-switcher-link: https://tunein.com/podcasts/Comedy-Podcasts/The-Offer-p1300957/?topicId=139628612
+tunein-link: https://tunein.com/podcasts/Comedy-Podcasts/The-Offer-p1300957/?topicId=140283371
+switcher-link: https://www.stitcher.com/podcast/the-offer-an-improv-podcast/e/68200450
 
 ---
