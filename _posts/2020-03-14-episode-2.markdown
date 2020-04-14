@@ -28,8 +28,8 @@ guests: Lilian - Mark - Paul
 #noir, sci-fi and such
 genre: Disaster
 
-description: This week, join Lilian Shen and Mark Skinner of ZMACK Shanghai and Paul as they race against the world to avert .... the end times.
-This week's episode is sponsored by Shanghai Brewhouse, who now delivers in Shanghai! Search for them on WeChat or follow us on twitter or Facebook to scan their QR code--with your first order you get a beer, FREE!
+#description: This week, join Lilian Shen and Mark Skinner of ZMACK Shanghai and Paul as #they race against the world to avert .... the end times.
+#This week's episode is sponsored by Shanghai Brewhouse, who now delivers in Shanghai! #Search for them on WeChat or follow us on twitter or Facebook to scan their QR code--with #your first order you get a beer, FREE!
 
 #link to the individual episodes in each platform
 spoti-link: https://open.spotify.com/episode/4PB8hQBlg3L78AkE3gN05U
