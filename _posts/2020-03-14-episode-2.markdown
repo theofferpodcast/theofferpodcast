@@ -1,0 +1,41 @@
+---
+#NOTES: don't use "#" or ":" those mess with the code
+# What is the name of the episode?
+title: Forgive Or End the World
+# What is the subtotitle of the episode? this will show up in the
+subtitle: It all comes to this.
+
+# NO CHANGE don't change this 
+#VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+layout: default
+comments: true
+
+# Add +1 to the latest episode. This controls where in the grid the episode will show up
+#e.g if the latest episode is number 8, this episode should be number 9
+modal-id: 1
+# Creation date
+date: 2020-03-14
+#main image. image should go in img/portfolio
+img: endworld.png
+#thumbnail image. image should go in img/portfolio
+thumbnail: endworld-thumbnail.png
+#description of the image when hoving over, useful to the visually impaired
+alt:
+#date that will be displayed
+project-date: Mar 2020
+#who participated?
+guests: Lilian - Mark - Paul
+#noir, sci-fi and such
+genre: Disaster
+
+description: This week, join Lilian Shen and Mark Skinner of ZMACK Shanghai and Paul as they race against the world to avert .... the end times.
+
+This week's episode is sponsored by Shanghai Brewhouse, who now delivers in Shanghai! Search for them on WeChat or follow us on twitter or Facebook to scan their QR code--with your first order you get a beer, FREE!
+
+#link to the individual episodes in each platform
+spoti-link: https://open.spotify.com/episode/4PB8hQBlg3L78AkE3gN05U
+apple-link: https://podcasts.apple.com/us/podcast/forgive-or-end-the-world-the-offer-episode-2/id1501625817?i=1000468447930
+tunein-link: https://www.stitcher.com/podcast/the-offer-an-improv-podcast/e/67865061
+switcher-link: https://tunein.com/podcasts/Comedy-Podcasts/The-Offer-p1300957/?topicId=139628612
+
+---
