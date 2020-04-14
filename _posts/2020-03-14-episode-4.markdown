@@ -3,7 +3,7 @@
 # What is the name of the episode?
 title: The Sandstorm That Stole Jack
 # What is the subtotitle of the episode? this will show up in the
-subtitle: Getting dusty.
+subtitle: Episode 4.
 
 # NO CHANGE don't change this 
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV

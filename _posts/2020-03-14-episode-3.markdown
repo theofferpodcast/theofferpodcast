@@ -3,7 +3,7 @@
 # What is the name of the episode?
 title: The Margarita Plot
 # What is the subtotitle of the episode? this will show up in the
-subtitle: We're going noir on this one.
+subtitle: Episode 3.
 
 # NO CHANGE don't change this 
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV

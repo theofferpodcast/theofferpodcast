@@ -3,7 +3,7 @@
 # What is the name of the episode?
 title: The Not-So-Sad Tale of Johnny and Lucas
 # What is the subtotitle of the episode? this will show up in the
-subtitle: play nice.
+subtitle: Episode 6.
 
 # NO CHANGE don't change this 
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV

@@ -3,7 +3,7 @@
 # What is the name of the episode?
 title: (Un)Structured Play
 # What is the subtotitle of the episode? this will show up in the
-subtitle: play nice.
+subtitle: Episode 5.
 
 # NO CHANGE don't change this 
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV

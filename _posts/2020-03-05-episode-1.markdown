@@ -3,7 +3,7 @@
 # What is the name of the episode?
 title: The Baijiu Curse
 # What is the subtotitle of the episode? this will show up in the
-subtitle: It sealed the fate of the world.
+subtitle: Episode 1.
 
 # NO CHANGE don't change this 
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV

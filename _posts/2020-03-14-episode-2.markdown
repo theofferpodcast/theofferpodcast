@@ -3,7 +3,7 @@
 # What is the name of the episode?
 title: Forgive Or End the World
 # What is the subtotitle of the episode? this will show up in the
-subtitle: It all comes to this.
+subtitle: Episode 2.
 
 # NO CHANGE don't change this 
 #VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
