@@ -808,9 +808,9 @@ ul.social-buttons li a:active {
     -webkit-box-shadow: none;
     box-shadow: none;
 }
-.portfolio-modal .listen-spotify-button {
-    max-width: 20%;
-    margin-top: 20px;
+.portfolio-modal .listen-episode-button {
+    height: 50px;
+    width: 50px;
 }
 
 .portfolio-modal .modal-content h2 {
