@@ -818,6 +818,10 @@ ul.social-buttons li a:active {
 
 }
 
+.portfolio btn-default {
+    color: #1d1b1b;
+}
+
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
