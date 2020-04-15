@@ -66,6 +66,11 @@ h6 {
     background-color: #1B1C1D;
 }
 
+.picture-artwork{
+    border-color: grey;
+    border-width: 10px;
+}
+
 .bg-darkest-gray {
     /*background-color: #222;*/
     background-color: #181A1B;
