@@ -67,7 +67,7 @@ h6 {
 }
 
 .picture-artwork{
-    border-color: grey;
+    border-color: {{ site.light-gray }};
     border-width: 10px;
 }
 
