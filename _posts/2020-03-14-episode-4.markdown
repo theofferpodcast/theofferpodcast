@@ -18,7 +18,7 @@ date: 2020-03-22
 #main image. image should go in img/portfolio
 img: sandstorm.png
 #thumbnail image. image should go in img/portfolio
-thumbnail: sandstorm-thumbnail.png
+thumbnail: default-thumbnail.png
 #description of the image when hoving over, useful to the visually impaired
 alt:
 #date that will be displayed

@@ -18,7 +18,7 @@ date: 2020-03-14
 #main image. image should go in img/portfolio
 img: endworld.png
 #thumbnail image. image should go in img/portfolio
-thumbnail: endworld-thumbnail.png
+thumbnail: default-thumbnail.png
 #description of the image when hoving over, useful to the visually impaired
 alt:
 #date that will be displayed
