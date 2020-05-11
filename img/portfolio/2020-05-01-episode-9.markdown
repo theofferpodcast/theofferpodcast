@@ -1,0 +1,40 @@
+---
+#NOTES: don't use "#" or ":" those mess with the code
+# What is the name of the episode?
+title: Commune For All?
+# What is the subtotitle of the episode? this will show up in the
+subtitle: Episode 9.
+
+# NO CHANGE don't change this 
+#VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+layout: default
+comments: true
+
+# Add +1 to the latest episode. This controls where in the grid the episode will show up
+#e.g if the latest episode is number 8, this episode should be number 9
+modal-id: 9
+# Creation date
+date: 2020-05-01
+#main image. image should go in img/portfolio
+img: Commune For All?.png
+#thumbnail image. image should go in img/portfolio
+thumbnail: default-thumbnail.png
+#description of the image when hoving over, useful to the visually impaired
+alt: Musical week again!
+#date that will be displayed
+project-date: May 2020
+#who participated?
+guests: Paul - Will - Mark - Lilian  
+#noir, sci-fi and such
+genre: Musical
+
+description: It's musical week! Mark, Lilian and Paul with Will on the keys. Loads of fun to make. Is a world without rules really the thing for everyone? Or do we need a form to request dinner time adjustments? Hippies, riots, interrogations and much more!
+
+
+#link to the individual episodes in each platform
+spoti-link: https://open.spotify.com/episode/6IDhlYs5UQxxjMMm536YRd?si=6Z7u164_QiuohP6tnGLuqw
+apple-link: https://podcasts.apple.com/us/podcast/the-offer-an-improvised-story/id1501625817?i=1000473344898
+tunein-link: https://tunein.com/podcasts/Comedy-Podcasts/The-Offer-p1300957/?topicId=141042494
+switcher-link: https://www.stitcher.com/podcast/the-offer-an-improv-podcast/e/68585020
+
+---
