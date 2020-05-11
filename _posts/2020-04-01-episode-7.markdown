@@ -1,0 +1,39 @@
+---
+#NOTES: don't use "#" or ":" those mess with the code
+# What is the name of the episode?
+title: Mall Love and Lockdown
+# What is the subtotitle of the episode? this will show up in the
+subtitle: Episode 7.
+
+# NO CHANGE don't change this 
+#VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+layout: default
+comments: true
+
+# Add +1 to the latest episode. This controls where in the grid the episode will show up
+#e.g if the latest episode is number 8, this episode should be number 9
+modal-id: 7
+# Creation date
+date: 2020-04-01
+#main image. image should go in img/portfolio
+img: Mall Love and Lockdown.png
+#thumbnail image. image should go in img/portfolio
+thumbnail: default-thumbnail.png
+#description of the image when hoving over, useful to the visually impaired
+alt: For the love of malls
+#date that will be displayed
+project-date: Apr 2020
+#who participated?
+guests: Paul - Cesar  
+#noir, sci-fi and such
+genre: Drama
+
+description: This week, join Paul and Cesar as they weave a story about the love of malls in an age of lockdown, the consequences, and of grandparents whose dark past comes in handy.  Also, introducing Cesar! Co-producer of this podcast, technical difficulties prevented him from coming on air with Paul, but no longer! Story starts at 00:08:41
+
+#link to the individual episodes in each platform
+spoti-link: https://open.spotify.com/episode/07gcskVMTdn8tBL13sMtKj?si=KLaXvetkSH-5_AUL7ah_Vw
+apple-link: https://podcasts.apple.com/us/podcast/the-offer-an-improvised-story/id1501625817?i=1000471871573
+tunein-link: https://tunein.com/podcasts/Comedy-Podcasts/The-Offer-p1300957/?topicId=141042494
+switcher-link: https://www.stitcher.com/podcast/the-offer-an-improv-podcast/e/68585020
+
+---
