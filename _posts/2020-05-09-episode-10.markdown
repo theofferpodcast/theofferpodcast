@@ -1,0 +1,39 @@
+---
+#NOTES: don't use "#" or ":" those mess with the code
+# What is the name of the episode?
+title: The Party That Changed Everything
+# What is the subtotitle of the episode? this will show up in the
+subtitle: Episode 10.
+
+# NO CHANGE don't change this 
+#VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+layout: default
+comments: true
+
+# Add +1 to the latest episode. This controls where in the grid the episode will show up
+#e.g if the latest episode is number 8, this episode should be number 9
+modal-id: 10
+# Creation date
+date: 2020-05-09
+#main image. image should go in img/portfolio
+img: Party-changed.png
+#thumbnail image. image should go in img/portfolio
+thumbnail: default-thumbnail.png
+#description of the image when hoving over, useful to the visually impaired
+alt: Matt and Sonia!
+#date that will be displayed
+project-date: May 2020
+#who participated?
+guests: Paul - Matt - Sonia   
+#noir, sci-fi and such
+genre: High school drama
+
+description: This week on the Offer, Matt Lovelace, Sonia Zhang, and Paul weave a story that begins with a party, where one boy discovers things about himself that will change not just his life, but the whole town, nay the world, forever. The story begins at 00:07:12
+
+#link to the individual episodes in each platform
+spoti-link: https://open.spotify.com/episode/1ItgLpKc4cYO0UVDQOJ6vl?si=jcMaGnQETNmjGEgDXIiC8w
+apple-link: https://podcasts.apple.com/us/podcast/the-offer-an-improvised-story/id1501625817?i=1000474072102
+tunein-link: https://tunein.com/podcasts/Comedy-Podcasts/The-Offer-p1300957/?topicId=141042494
+switcher-link: https://www.stitcher.com/podcast/the-offer-an-improv-podcast/e/68585020
+
+---
