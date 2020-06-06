@@ -106,4 +106,18 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
+- name: Lilian Shen
+  pic: lilian
+  position: Artistic Director of Zmack
+  social:
+    - title: facebook
+      url: https://www.facebook.com/zmackcomedy/
+    - title: linkedin
+      url: https://www.linkedin.com/company/zmack/about/
+  #  - title: twitter
+  #    url: #
+  #  - title: wbesite
+  #    url: https://www.zmack.net/
+  #  - title: wechat
+  #    url: zmackshanghai
 
