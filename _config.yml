@@ -120,4 +120,18 @@ guests:
   #    url: https://www.zmack.net/
   #  - title: wechat
   #    url: zmackshanghai
+- name: Eddie Jordan III
+  pic: etriiiip
+  position: Call me Etriiip
+  social:
+    - title: facebook
+      url: https://www.facebook.com/eddie.i.jordan
+    - title: linkedin
+      url: https://www.linkedin.com/in/eddie-jordan-iii-etriiip-41899077/
+  #  - title: twitter
+  #    url: #
+  #  - title: wbesite
+  #    url: https://www.zmack.net/
+  #  - title: instagram
+  #    url: etriiip
 
