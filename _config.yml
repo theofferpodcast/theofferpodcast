@@ -134,4 +134,12 @@ guests:
   #    url: https://www.zmack.net/
   #  - title: instagram
   #    url: etriiip
+- name: Julien Bertrand 
+  pic: julien
+  position: Actor | Writer | Director 
+  social:
+    - title: facebook
+      url: https://www.facebook.com/julienactor/
+    - title: linkedin
+      url: https://www.linkedin.com/in/julien-bertrand-2b884516/
 
