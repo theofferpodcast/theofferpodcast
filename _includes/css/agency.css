@@ -10,7 +10,7 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
-.playlists-links.row{
+.playlists-links{
     background-color: hotpink;
 }
 
