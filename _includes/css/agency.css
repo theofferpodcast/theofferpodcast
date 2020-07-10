@@ -10,6 +10,10 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.playlists-links.row{
+    background-color: hotpink;
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
