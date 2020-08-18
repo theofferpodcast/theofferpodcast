@@ -305,7 +305,7 @@ header .playlistlink{
     font-size: 2em;
     color: white;
     font-family: "IM Fell DW Pica","Helvetica Neue",Helvetica,Arial,cursive;
-    margin: 4em;
+    margin: 1em;
     padding: 1em;
     width: 60em;
     background-color: #{{ site.data.template.color.primary }};
@@ -315,7 +315,7 @@ header .embeddedplayer{
     border-radius: 2%;
     width: 60em;
     height: 11em;
-    margin: 2em;
+    margin: 3em;
 }
 
 
