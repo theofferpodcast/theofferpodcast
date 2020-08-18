@@ -308,10 +308,9 @@ header .playlistlink{
 }
 
 header .embeddedplayer{
-    border-radius: 3%;
+    border-radius: 50%;
     width: 60em;
     height: 10em;
-    background-color: red;
 }
 
 
