@@ -302,18 +302,17 @@ header .intro-text {
     padding-bottom: 50px;
 }
 header .playlistlink{
-    font-size: 5em;
+    font-size: 3em;
     color: white;
     font-family: "IM Fell DW Pica","Helvetica Neue",Helvetica,Arial,cursive;
     margin: 4em;
-
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 header .embeddedplayer{
     border-radius: 2%;
     width: 60em;
     height: 11em;
-    color: #{{ site.data.template.color.primary }};
 }
 
 
