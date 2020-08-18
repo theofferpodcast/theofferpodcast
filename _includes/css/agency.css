@@ -304,6 +304,7 @@ header .intro-text {
 header .playlistlink{
     border: 10em;
     border-color: mediumorchid;
+    background-color: olivedrab;
 }
 
 header .intro-text .intro-lead-in {
