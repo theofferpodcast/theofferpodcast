@@ -310,7 +310,7 @@ header .playlistlink{
 header .embeddedplayer{
     border-radius: 5%;
     width: 60em;
-    height: 6em;
+    height: 8em;
     background-color: orange;
 }
 
