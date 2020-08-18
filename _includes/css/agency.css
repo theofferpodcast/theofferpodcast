@@ -302,8 +302,6 @@ header .intro-text {
     padding-bottom: 50px;
 }
 header .playlistlink{
-    width: 800em;
-    height: 200em;
     font-size: 5em;
     font-family: "IM Fell DW Pica","Helvetica Neue",Helvetica,Arial,cursive;
 
@@ -311,6 +309,8 @@ header .playlistlink{
 
 header .embeddedplayer{
     border-radius: 15%;
+    width: 800em;
+    height: 200em;
 }
 
 
