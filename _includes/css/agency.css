@@ -302,10 +302,10 @@ header .intro-text {
     padding-bottom: 50px;
 }
 header .playlistlink{
-    border: 10em;
-    border-color: mediumorchid;
-    background-color: olivedrab;
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 50em;
 }
+
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
