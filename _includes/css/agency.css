@@ -302,10 +302,11 @@ header .intro-text {
     padding-bottom: 50px;
 }
 header .playlistlink{
+    width: 800em;
+    height: 200em;
     font-family: {{ site.data.template.font.primary }};
     font-size: 5em;
-    height: 200em;
-    width: 800em;
+
 }
 
 header .embeddedplayer{
