@@ -304,8 +304,8 @@ header .intro-text {
 header .playlistlink{
     width: 800em;
     height: 200em;
-    font-family: {{ site.data.template.font.primary }};
     font-size: 5em;
+    font-family: {{ site.data.template.font.primary }};
 
 }
 
@@ -316,10 +316,10 @@ header .embeddedplayer{
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    font-family: {{ site.data.template.font.secondary }};
 }
 
 header .intro-text .intro-heading {
