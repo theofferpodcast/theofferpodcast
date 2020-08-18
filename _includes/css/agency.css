@@ -307,6 +307,7 @@ header .playlistlink{
     font-family: "IM Fell DW Pica","Helvetica Neue",Helvetica,Arial,cursive;
     margin: 8em;
     padding: 1em;
+    width: 60em;
     background-color: #{{ site.data.template.color.primary }};
 }
 
