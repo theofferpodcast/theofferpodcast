@@ -306,6 +306,10 @@ header .playlistlink{
     font-size: 50em;
 }
 
+header .embeddedplayer{
+    border-radius: 25%;
+}
+
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
