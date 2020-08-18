@@ -312,7 +312,7 @@ header .playlistlink{
 header .embeddedplayer{
     border-radius: 2%;
     width: 60em;
-    height: 10em;
+    height: 11em;
     color: #{{ site.data.template.color.primary }};
 }
 
