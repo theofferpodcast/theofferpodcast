@@ -303,11 +303,13 @@ header .intro-text {
 }
 header .playlistlink{
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50em;
+    font-size: 5em;
+    height: 200em;
+    width: 800em;
 }
 
 header .embeddedplayer{
-    border-radius: 25%;
+    border-radius: 15%;
 }
 
 
