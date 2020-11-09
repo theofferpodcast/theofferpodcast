@@ -683,7 +683,9 @@ section h3.section-subheading {
     color: #{{ site.data.template.color.light }};
 }
 
-
+.sitedescription{
+    color: #fff;
+}
 .team-member {
     margin-bottom: 50px;
     text-align: center;
