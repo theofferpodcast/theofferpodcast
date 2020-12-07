@@ -71,60 +71,6 @@ playlists:
 #<----------------------- Guests --------------------------->
 
 guests:
-- name: Matt Lovelace
-  pic: mat
-  position: Danklord
-  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: https://www.facebook.com/CesarDGozurreta
-  #  - title: linkedin
-  #    url: https://www.linkedin.com/in/cesar-gozurreta/
-- name: Sonia Zhang
-  pic: sonia
-  position: ice-cream collector
-  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: https://www.facebook.com/CesarDGozurreta
-    - title: linkedin
-      url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
-- name: Ben Browder Thompson
-  pic: browder
-  position: Creative who sets off metal detectors
-  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: https://www.facebook.com/CesarDGozurreta
-  #  - title: linkedin
-  #    url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
-- name: William Taylor Hood XIII
-  pic: will
-  position: Keyboard Killer
-  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: https://www.facebook.com/CesarDGozurreta
-  #  - title: linkedin
-  #    url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
-- name: Lilian Shen
-  pic: lilian
-  position: Artistic Director of Zmack
-  social:
-    - title: facebook
-      url: https://www.facebook.com/zmackcomedy/
-    - title: linkedin
-      url: https://www.linkedin.com/company/zmack/about/
-  #  - title: twitter
-  #    url: #
-  #  - title: wbesite
-  #    url: https://www.zmack.net/
-  #  - title: wechat
-  #    url: zmackshanghai
 - name: Eddie Jordan III
   pic: etriiiip
   position: Call me Etriiip
@@ -155,6 +101,60 @@ guests:
       url: https://www.facebook.com/zmackcomedy/
     - title: linkedin
       url: https://www.linkedin.com/in/curtmabryimproviser/
+- name: Sonia Zhang
+  pic: sonia
+  position: ice-cream collector
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+    - title: linkedin
+      url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
+- name: Ben Browder Thompson
+  pic: browder
+  position: Creative who sets off metal detectors
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
+- name: Matt Lovelace
+  pic: mat
+  position: Danklord
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/cesar-gozurreta/
+- name: William Taylor Hood XIII
+  pic: will
+  position: Keyboard Killer
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/CesarDGozurreta
+  #  - title: linkedin
+  #    url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
+- name: Lilian Shen
+  pic: lilian
+  position: Artistic Director of Zmack
+  social:
+    - title: facebook
+      url: https://www.facebook.com/zmackcomedy/
+    - title: linkedin
+      url: https://www.linkedin.com/company/zmack/about/
+  #  - title: twitter
+  #    url: #
+  #  - title: wbesite
+  #    url: https://www.zmack.net/
+  #  - title: wechat
+  #    url: zmackshanghai
 #    - title: instagram
 #      url: Zmackbkk
 #    - title: wechat
