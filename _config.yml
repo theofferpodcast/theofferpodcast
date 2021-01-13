@@ -119,8 +119,8 @@ guests:
       url: https://www.facebook.com/mindbendertrivia/
     - title: linkedin
       url: https://www.linkedin.com/in/vjbender/
-    - title: instagram
-      url: @bendini_creative
+  #  - title: instagram
+  #    url: @bendini_creative
   #  - title: wbesite
   #    url: https://www.zmack.net/
   #  - title: wechat
