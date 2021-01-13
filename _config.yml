@@ -111,6 +111,22 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
     - title: linkedin
       url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
+- name: Victoria Bender
+  pic: victoria
+  position: Actor/Improviser/Costumer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/mindbendertrivia/
+    - title: linkedin
+      url: https://www.linkedin.com/in/vjbender/
+    - title: instagram
+      url: @bendini_creative
+  #  - title: wbesite
+  #    url: https://www.zmack.net/
+  #  - title: wechat
+  #    url: zmackshanghai
+#    - title: wechat
+#      url: ZmackShanghai
 - name: Ben Browder Thompson
   pic: browder
   position: Creative who sets off metal detectors
