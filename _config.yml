@@ -9,7 +9,7 @@ disqus: theofferpodcast # get it on https://disqus.com/admin/
 
 # Team names, titles and social links
 people:
-- name: Cesar Goz
+- name: Caesar Goz
   pic: 1
   position: Co-Producer | Co-Host
   social:
@@ -24,12 +24,12 @@ people:
   pic: 2
   position: Co-Producer | Co-Host
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: linkedin
+  #    url: #
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
