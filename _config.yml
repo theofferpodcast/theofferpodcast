@@ -129,7 +129,7 @@ guests:
 #      url: ZmackShanghai
 - name: Tony Perea 
   pic: tony
-  position: Actor, Writer, Musician.
+  position: Actor | Writer | Musician.
   social:
     - title: facebook
       url: https://www.facebook.com/antonio.perea.73
