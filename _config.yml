@@ -4,7 +4,7 @@ baseurl: http://theoffercast.com/
 # Site settings
 title: The Offer
 email: contact@theoffercast.com
-description: "The Offer is an improvised stories podcast. Each week, our hosts, Paul and Cesar, create a completely original long-form story with an amazing guest. Expect comedy, authenticy and very high-level improv."
+description: "The best improvised comedy podcast in the world."
 disqus: theofferpodcast # get it on https://disqus.com/admin/
 
 # Team names, titles and social links
@@ -38,12 +38,12 @@ social:
     url: http://twitter.com/OfferPod
   - title: linkedin
     url: http://www.linkedin.com/company/42371723
-# - title: stack-overflow
-#   url: http://stackoverflow.com/questions/tagged/jekyll
-# - title: bitbucket 
-#   url: http://bitbucket.org/jekyll
-# - title: github
-#   url: http://github.com/jekyll
+ - title: instagram
+   url: https://www.instagram.com/theoffercast/
+ - title: facebook
+   url: http://bitbucket.org/jekyll
+ - title: discord
+   url: https://discord.gg/Q6ZpkecX
 
 # Postal address (add as many lines as necessary)
 address:
