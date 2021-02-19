@@ -38,12 +38,12 @@ social:
     url: http://twitter.com/OfferPod
   - title: linkedin
     url: http://www.linkedin.com/company/42371723
- - title: instagram
-   url: https://www.instagram.com/theoffercast/
- - title: facebook
-   url: http://bitbucket.org/jekyll
- - title: discord
-   url: https://discord.gg/Q6ZpkecX
+  - title: instagram
+    url: https://www.instagram.com/theoffercast/
+  - title: facebook
+    url: http://bitbucket.org/jekyll
+  - title: discord
+    url: https://discord.gg/Q6ZpkecX
 
 # Postal address (add as many lines as necessary)
 address:
