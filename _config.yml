@@ -205,4 +205,12 @@ guests:
 #      url: Zmackbkk
 #    - title: wechat
 #      url: ZmackShanghai
+- name: LlauraH Improviser
+  pic: llaura
+  position: Improviser | Director | Psychologist
+  social:
+    - title: facebook
+      url: https://www.facebook.com/llaura.himproviser
+    - title: instagram
+      url: https://www.instagram.com/Llaurah_improviser
 
