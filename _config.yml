@@ -129,9 +129,9 @@ guests:
       url: https://www.facebook.com/mindbendertrivia/
     - title: linkedin
       url: https://www.linkedin.com/in/vjbender/
-    - title: instagram
-      url: @bendini_creative
-  #  - title: wbesite
+  #  - title: instagram
+  #    url: @bendini_creative
+  #  - title: blobe
   #    url: https://www.zmack.net/
   #  - title: wechat
   #    url: zmackshanghai
@@ -145,8 +145,8 @@ guests:
       url: https://www.facebook.com/antonio.perea.73
     - title: youtube
       url: https://www.youtube.com/channel/UCzsLUx2rVWEXNjFW4WnVUsg
-    - title: instagram
-      url: @afpafpafp
+#    - title: instagram
+#      url: @afpafpafp
 - name: Andi Fei
   pic: andi
   position: Improviser | Dog Trainer | Entrepreneur
