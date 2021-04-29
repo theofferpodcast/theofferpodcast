@@ -106,7 +106,7 @@ guests:
 
 - name: Darryl Charles
   pic: darryl
-  position: Stand-up Comedian | Improviser | Sketch Comedy Writer
+  position: Comedian | Improviser | Sketch Comedy Writer
   social:
     - title: globe
       url: http://www.darrylcharlescomedy.com/home.html
@@ -129,8 +129,8 @@ guests:
       url: https://www.facebook.com/mindbendertrivia/
     - title: linkedin
       url: https://www.linkedin.com/in/vjbender/
-  #  - title: instagram
-  #    url: @bendini_creative
+    - title: instagram
+      url: @bendini_creative
   #  - title: wbesite
   #    url: https://www.zmack.net/
   #  - title: wechat
@@ -143,8 +143,18 @@ guests:
   social:
     - title: facebook
       url: https://www.facebook.com/antonio.perea.73
+    - title: youtube
+      url: https://www.youtube.com/channel/UCzsLUx2rVWEXNjFW4WnVUsg
+    - title: instagram
+      url: @afpafpafp
+- name: Andi Fei
+  pic: andi
+  position: Improviser | Dog Trainer | Entrepreneur
+  social:
   #  - title: twitter
   #    url: #
+  #  - title: facebook
+  #    url: https://www.facebook.com/afpafpafp
   #  - title: linkedin
   #    url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
 - name: Ben Browder Thompson
