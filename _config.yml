@@ -143,20 +143,19 @@ guests:
   social:
     - title: facebook
       url: https://www.facebook.com/antonio.perea.73
-    - title: youtube
-      url: https://www.youtube.com/channel/UCzsLUx2rVWEXNjFW4WnVUsg
+    
 #    - title: instagram
 #      url: @afpafpafp
 - name: Andi Fei
   pic: andi
   position: Improviser | Dog Trainer | Entrepreneur
   social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: https://www.facebook.com/afpafpafp
-  #  - title: linkedin
-  #    url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
+    - title: facebook
+      url: https://www.facebook.com/afpafpafp
+    - title: youtube
+      url: https://www.youtube.com/channel/UCzsLUx2rVWEXNjFW4WnVUsg
+    - title: instagram
+      url: https://www.instagram.com/afpafpafp/
 - name: Ben Browder Thompson
   pic: browder
   position: Creative who sets off metal detectors
