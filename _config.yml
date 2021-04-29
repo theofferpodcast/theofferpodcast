@@ -85,8 +85,8 @@ guests:
   #    url: #
   #  - title: wbesite
   #    url: https://www.zmack.net/
-  #  - title: instagram
-  #    url: etriiip
+    - title: instagram
+      url: etriiip
 - name: Julien Bertrand 
   pic: julien
   position: Actor | Writer | Director 
@@ -214,3 +214,9 @@ guests:
     - title: instagram
       url: https://www.instagram.com/Llaurah_improviser
 
+- name: Darryl Charles
+  pic: darryl
+  position: Stand-up Comedian | Improviser | Sketch Comedy Writer
+  social:
+    - title: globe
+      url: darrylcomedy.com
