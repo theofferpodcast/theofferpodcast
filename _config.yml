@@ -129,8 +129,8 @@ guests:
       url: https://www.facebook.com/mindbendertrivia/
     - title: linkedin
       url: https://www.linkedin.com/in/vjbender/
-  #  - title: instagram
-  #    url: @bendini_creative
+    - title: instagram
+      url: https://www.instagram.com/bendini_creative
   #  - title: blobe
   #    url: https://www.zmack.net/
   #  - title: wechat
@@ -212,14 +212,12 @@ guests:
       url: https://www.facebook.com/zmackcomedy/
     - title: linkedin
       url: https://www.linkedin.com/company/zmack/about/
-  #  - title: twitter
-  #    url: #
-  #  - title: wbesite
-  #    url: https://www.zmack.net/
+    - title: globe
+      url: https://www.zmack.net/
+    - title: instagram
+      url: https://www.instagram.com/Zmackbkk
   #  - title: wechat
   #    url: zmackshanghai
-#    - title: instagram
-#      url: Zmackbkk
 #    - title: wechat
 #      url: ZmackShanghai
 - name: LlauraH Improviser
