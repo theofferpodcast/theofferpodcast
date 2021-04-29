@@ -103,7 +103,15 @@ guests:
       url: https://www.facebook.com/zmackcomedy/
     - title: linkedin
       url: https://www.linkedin.com/in/curtmabryimproviser/
+
 - name: Sonia Zhang
+- name: Darryl Charles
+  pic: darryl
+  position: Stand-up Comedian | Improviser | Sketch Comedy Writer
+  social:
+    - title: globe
+      url: http://www.darrylcharlescomedy.com/home.html
+  
   pic: sonia
   position: ice-cream collector
   social:
@@ -214,9 +222,3 @@ guests:
     - title: instagram
       url: https://www.instagram.com/Llaurah_improviser
 
-- name: Darryl Charles
-  pic: darryl
-  position: Stand-up Comedian | Improviser | Sketch Comedy Writer
-  social:
-    - title: globe
-      url: https://www.darrylcomedy.com
