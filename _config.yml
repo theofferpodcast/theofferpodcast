@@ -10,7 +10,7 @@ disqus: theofferpodcast # get it on https://disqus.com/admin/
 # Team names, titles and social links
 people:
 - name: Caesar Goz
-  pic: 1
+  pic: 3
   position: Co-Producer | Co-Host
   social:
   #  - title: twitter
