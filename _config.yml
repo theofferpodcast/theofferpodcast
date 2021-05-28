@@ -104,12 +104,23 @@ guests:
     - title: linkedin
       url: https://www.linkedin.com/in/curtmabryimproviser/
 
+- name: Iris Park
+  pic: iris
+  position: Actor | Improviser | Wannabe Polyglot
+  social:
+    - title: facebook
+      url: https://web.facebook.com/Irisia/
+    - title: instagram
+      url:  https://www.instagram.com/irisiapark/ 
+
 - name: Darryl Charles
   pic: darryl
   position: Comedian | Improviser | Comedy Writer
   social:
     - title: globe
       url: http://www.darrylcharlescomedy.com/home.html
+
+
 - name: Sonia Zhang
   
   pic: sonia
