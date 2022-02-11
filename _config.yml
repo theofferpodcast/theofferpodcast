@@ -11,7 +11,7 @@ disqus: theofferpodcast # get it on https://disqus.com/admin/
 people:
 - name: Caesar Goz
   pic: 3
-  position: Co-Producer | Co-Host
+  position: Producer | Host
   social:
   #  - title: twitter
   #    url: #
@@ -20,9 +20,20 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/cesar-gozurreta/
 
+- name: Victoria Bender
+  pic: victoria
+  position: Actor | Improviser | Costumer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/mindbendertrivia/
+    - title: linkedin
+      url: https://www.linkedin.com/in/vjbender/
+    - title: instagram
+      url: https://www.instagram.com/bendini_creative
+
 - name: Paul Deichmann
   pic: 2
-  position: Co-Producer | Co-Host
+  position: Producer | Host
   social:
   #  - title: twitter
   #    url: #
@@ -132,20 +143,20 @@ guests:
   #    url: https://www.facebook.com/CesarDGozurreta
     - title: linkedin
       url: https://www.linkedin.com/in/qianqing-zhang-644b28a9/
-- name: Victoria Bender
-  pic: victoria
-  position: Actor | Improviser | Costumer
-  social:
-    - title: facebook
-      url: https://www.facebook.com/mindbendertrivia/
-    - title: linkedin
-      url: https://www.linkedin.com/in/vjbender/
-    - title: instagram
-      url: https://www.instagram.com/bendini_creative
-  #  - title: blobe
-  #    url: https://www.zmack.net/
-  #  - title: wechat
-  #    url: zmackshanghai
+#- name: Victoria Bender
+#  pic: victoria
+#  position: Actor | Improviser | Costumer
+#  social:
+#    - title: facebook
+#      url: https://www.facebook.com/mindbendertrivia/
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/vjbender/
+#    - title: instagram
+#      url: https://www.instagram.com/bendini_creative
+#  #  - title: blobe
+#  #    url: https://www.zmack.net/
+#  #  - title: wechat
+#  #    url: zmackshanghai
 #    - title: wechat
 #      url: ZmackShanghai
 - name: Tony Perea 
